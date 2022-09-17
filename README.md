@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/carolinemorais22">
-  <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=carolinemorais22&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="200px" width="55%" src="https://github-readme-stats.vercel.app/api?username=carolinemorais22&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemorais22&layout=compact&langs_count=7&theme=moltack"/>
 </div>
 
