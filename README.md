@@ -1,7 +1,7 @@
-# Olá! Meu nome é Caroline Morais 💛
+# Olá! Meu nome é Caroline Morais 
 ### Bem-vindo(a) ao meu GitHub!
 
-📚 Atualmente, estou estudando Análise de Dados. 
+📚 Atualmente, estou estudando Análise de Dados e Cybersecurity. 
 
 <div align="center">
   <a href="https://github.com/carolinemorais22">
@@ -17,14 +17,4 @@
   <img align="center" alt="Carol-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Carol-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Carol-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://instagram.com/carol_morais22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caroline.morais@estudante.ifms.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-   ![Snake animation](https://github.com/carolinemorais22/carolinemorais22/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
