@@ -1,7 +1,7 @@
 # Olá! Meu nome é Caroline Morais 💛
 ### Bem-vindo(a) ao meu GitHub!
 
-📚 Atualmente, estou estudando JavaScript. 
+📚 Atualmente, estou estudando Análise de Dados. 
 
 <div align="center">
   <a href="https://github.com/carolinemorais22">
