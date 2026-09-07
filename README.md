@@ -1,13 +1,8 @@
 # Olá! Meu nome é Caroline Morais 
 ### Bem-vindo(a) ao meu GitHub!
 
-📚 Atualmente, estou estudando Cybersecurity. 
+📚 Atualmente, estou estudando Software Development pela BYU-PATHWAY WorldWide. 
 
-<div align="center">
-  <a href="https://github.com/carolinemorais22">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinemorais22&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemorais22&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
